@@ -1,0 +1,494 @@
+[
+  {
+    "userId": "0x80e0c70848a18E9117A0615b4116B3b0F78E463b",
+    "userName": "Thomas",
+    "userImage": "profileImage8.webp",
+    "level": 0,
+    "levelStartPoints": 0,
+    "levelEndPoints": 500,
+    "strengthPoints": "140.5",
+    "pointsLastMonth": "80.5",
+    "pointsGraph": "User0.png",
+    "ongoingTasks": "32",
+    "history": [
+      {
+        "id": 4,
+        "task": "Join Discord",
+        "duration": 1,
+        "createdBy": "Mark B.",
+        "createdOn": "Jul-22",
+        "points": 60,
+        "status": "Approved"
+      },
+      {
+        "id": 3,
+        "task": "Rent a Co-living Space ",
+        "duration": 2,
+        "createdBy": "Steven H.",
+        "createdOn": "Aug-22",
+        "points": 40,
+        "status": "Approved"
+      },
+      {
+        "id": 2,
+        "task": "Attended an Experience Weekend",
+        "duration": 2,
+        "createdBy": "Conor S.",
+        "createdOn": "Aug-22",
+        "points": 30.5,
+        "status": "Approved"
+      },
+      {
+        "id": 1,
+        "task": "Mentioned on Social Media",
+        "duration": 1,
+        "createdBy": "Mark B.",
+        "createdOn": "Aug-22",
+        "points": 10,
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "userId": "0x14f3e34E232a234031A502C16E8873000A283C70",
+    "userName": "Thomas",
+    "userImage": "profileImage8.webp",
+    "level": 1,
+    "strengthPoints": "510.5",
+    "pointsLastMonth": "75.5",
+    "pointsGraph": "User1.png",
+    "ongoingTasks": "32",
+    "levelStartPoints": 500,
+    "levelEndPoints": 1000,
+    "history": [
+      {
+        "id": 1,
+        "task": "Join Discord",
+        "duration": 1,
+        "createdBy": "Mark B.",
+        "createdOn": "Sep-22",
+        "points": 50,
+        "status": "Approved"
+      },
+      {
+        "id": 2,
+        "task": "Organise Pop up Coliving Weekend",
+        "duration": 2,
+        "createdBy": "Steven H.",
+        "createdOn": "Sep-22",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 3,
+        "task": "Rent a Co-living Space",
+        "duration": 2,
+        "createdBy": "Conor S.",
+        "createdOn": "Sep-22",
+        "points": 60,
+        "status": "Approved"
+      },
+      {
+        "id": 4,
+        "task": "Attended an Experience Weekend",
+        "duration": 1,
+        "createdBy": "Mark B.",
+        "createdOn": "Sep-22",
+        "points": 65,
+        "status": "Approved"
+      },
+      {
+        "id": 5,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Shane C.",
+        "createdOn": "Sep-22",
+        "points": 55,
+        "status": "Approved"
+      },
+      {
+        "id": 6,
+        "task": "Referrals: Places / Coliving Spaces ",
+        "duration": 1,
+        "createdBy": "Deepak D.",
+        "createdOn": "Sep-22",
+        "points": 15,
+        "status": "Approved"
+      },
+      {
+        "id": 7,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Shobha R.",
+        "createdOn": "Sep-22",
+        "points": 20,
+        "status": "Approved"
+      },
+      {
+        "id": 8,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Joy D.",
+        "createdOn": "Sep-22",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 9,
+        "task": "Rent a Co-living Space ",
+        "duration": 4,
+        "createdBy": "Steven H.",
+        "createdOn": "Sep-22",
+        "points": 15,
+        "status": "Approved"
+      },
+      {
+        "id": 10,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Deepak D.",
+        "createdOn": "Oct-22",
+        "points": 40,
+        "status": "Approved"
+      },
+      {
+        "id": 11,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Mark B.",
+        "createdOn": "Oct-22",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 12,
+        "task": "Rent a Co-living Space ",
+        "duration": 8,
+        "createdBy": "Joy D.",
+        "createdOn": "Oct-22",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 13,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Conor S.",
+        "createdOn": "Oct-22",
+        "points": 40,
+        "status": "Approved"
+      },
+      {
+        "id": 14,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Shobha R.",
+        "createdOn": "Oct-22",
+        "points": 15,
+        "status": "Approved"
+      },
+      {
+        "id": 15,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Shobha R.",
+        "createdOn": "Oct-22",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 16,
+        "task": "Organise Pop up Coliving Weekend ",
+        "duration": 5,
+        "createdBy": "Steven H.",
+        "createdOn": "Nov-22",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 17,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Joy D.",
+        "createdOn": "Nov-22",
+        "points": 50,
+        "status": "Approved"
+      },
+      {
+        "id": 18,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Deepak D.",
+        "createdOn": "Nov-22",
+        "points": 15.5,
+        "status": "Approved"
+      }
+    ]
+  },
+  {
+    "userId": "0xbeD4E2d667B9E201505cD7822a4498D38ef956BC",
+    "userName": "Thomas",
+    "userImage": "profileImage8.webp",
+    "level": 2,
+    "levelStartPoints": 1000,
+    "levelEndPoints": 3000,
+    "strengthPoints": "1055",
+    "pointsLastMonth": "290",
+    "pointsGraph": "User2.png",
+    "ongoingTasks": "32",
+    "history": [
+      {
+        "id": 1,
+        "task": "Join Discord",
+        "duration": 1,
+        "createdBy": "Mark B.",
+        "createdOn": "Dec-22",
+        "points": 50,
+        "status": "Approved"
+      },
+      {
+        "id": 2,
+        "task": "Organise Pop up Coliving Weekend",
+        "duration": 2,
+        "createdBy": "Steven H.",
+        "createdOn": "Dec-22",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 3,
+        "task": "Rent a Co-living Space",
+        "duration": 2,
+        "createdBy": "Conor S.",
+        "createdOn": "Dec-22",
+        "points": 60,
+        "status": "Approved"
+      },
+      {
+        "id": 4,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Mark B.",
+        "createdOn": "Dec-22",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 5,
+        "task": "Organise Pop up Coliving Weekend ",
+        "duration": 5,
+        "createdBy": "Shane C.",
+        "createdOn": "Dec-22",
+        "points": 50,
+        "status": "Approved"
+      },
+      {
+        "id": 6,
+        "task": "Rent a Co-living Space ",
+        "duration": 1,
+        "createdBy": "Deepak D.",
+        "createdOn": "Dec-22",
+        "points": 40,
+        "status": "Approved"
+      },
+      {
+        "id": 7,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Shobha R.",
+        "createdOn": "Jan-23",
+        "points": 15,
+        "status": "Approved"
+      },
+      {
+        "id": 8,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Joy D.",
+        "createdOn": "Jan-23",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 9,
+        "task": "Organise Pop up Coliving Weekend ",
+        "duration": 4,
+        "createdBy": "Steven H.",
+        "createdOn": "Jan-23",
+        "points": 75,
+        "status": "Approved"
+      },
+      {
+        "id": 10,
+        "task": "Rent a Co-living Space ",
+        "duration": 8,
+        "createdBy": "Deepak D.",
+        "createdOn": "Jan-23",
+        "points": 65,
+        "status": "Approved"
+      },
+      {
+        "id": 11,
+        "task": "Attended an Experience Weekend",
+        "duration": 2,
+        "createdBy": "Mark B.",
+        "createdOn": "Jan-23",
+        "points": 80,
+        "status": "Approved"
+      },
+      {
+        "id": 12,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Joy D.",
+        "createdOn": "Jan-23",
+        "points": 15,
+        "status": "Approved"
+      },
+      {
+        "id": 13,
+        "task": "Referrals: Places / Coliving Spaces ",
+        "duration": 1,
+        "createdBy": "Conor S.",
+        "createdOn": "Feb-23",
+        "points": 20,
+        "status": "Approved"
+      },
+      {
+        "id": 14,
+        "task": "Rent a Co-living Space ",
+        "duration": 7,
+        "createdBy": "Shobha R.",
+        "createdOn": "Feb-23",
+        "points": 40,
+        "status": "Approved"
+      },
+      {
+        "id": 15,
+        "task": "Organise Pop up Coliving Weekend ",
+        "duration": 2,
+        "createdBy": "Shobha R.",
+        "createdOn": "Feb-23",
+        "points": 50,
+        "status": "Approved"
+      },
+      {
+        "id": 16,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Steven H.",
+        "createdOn": "Feb-23",
+        "points": 15,
+        "status": "Approved"
+      },
+      {
+        "id": 17,
+        "task": "Rent a Co-living Space ",
+        "duration": 1,
+        "createdBy": "Joy D.",
+        "createdOn": "Feb-23",
+        "points": 40,
+        "status": "Approved"
+      },
+      {
+        "id": 18,
+        "task": "Organise Pop up Coliving Weekend ",
+        "duration": 5,
+        "createdBy": "Deepak D.",
+        "createdOn": "Feb-23",
+        "points": 50,
+        "status": "Approved"
+      },
+      {
+        "id": 19,
+        "task": "Rent a Co-living Space ",
+        "duration": 4,
+        "createdBy": "Deepak D.",
+        "createdOn": "Mar-23",
+        "points": 40,
+        "status": "Approved"
+      },
+      {
+        "id": 20,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Mark B.",
+        "createdOn": "Mar-23",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 21,
+        "task": "Organise Pop up Coliving Weekend ",
+        "duration": 2,
+        "createdBy": "Joy D.",
+        "createdOn": "Mar-23",
+        "points": 50,
+        "status": "Approved"
+      },
+      {
+        "id": 22,
+        "task": "Rent a Co-living Space ",
+        "duration": 5,
+        "createdBy": "Conor S.",
+        "createdOn": "Mar-23",
+        "points": 40,
+        "status": "Approved"
+      },
+      {
+        "id": 23,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Shobha R.",
+        "createdOn": "Mar-23",
+        "points": 15,
+        "status": "Approved"
+      },
+      {
+        "id": 24,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Shobha R.",
+        "createdOn": "Mar-23",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 25,
+        "task": "Mentioned on Social Media ",
+        "duration": 1,
+        "createdBy": "Steven H.",
+        "createdOn": "Mar-23",
+        "points": 10,
+        "status": "Approved"
+      },
+      {
+        "id": 26,
+        "task": "Organise Pop up Coliving Weekend ",
+        "duration": 4,
+        "createdBy": "Joy D.",
+        "createdOn": "Mar-23",
+        "points": 50,
+        "status": "Approved"
+      },
+      {
+        "id": 27,
+        "task": "Referrals: People who rent ",
+        "duration": 1,
+        "createdBy": "Deepak D.",
+        "createdOn": "Mar-23",
+        "points": 65,
+        "status": "Approved"
+      },
+      {
+        "id": 28,
+        "task": "Rent a Co-living Space ",
+        "duration": 6,
+        "createdBy": "Conor S.",
+        "createdOn": "Mar-23",
+        "points": 40,
+        "status": "Approved"
+      }
+    ]
+  }
+]
