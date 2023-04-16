@@ -1,0 +1,71 @@
+abc = vendorContract.buyTokens().send({from: '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266', value: '10000000000000000'});
+abc = vendorContract.buyTokens().send({from: '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266', value: '10000000000000000');
+abc = await vendorContract.buyTokens().send({from: '0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266', value: '10000000000000000');
+        }
+            gasLimit: "210000"
+            value: "10000000000000000",
+            from: accountAddr,
+abc = await vendorContract.buyTokens().send({)
+abc = await vendorContract.buyTokens()
+vendorTokensSupply = await tokenContract.balanceOf('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266');
+vendorTokensSupply = await tokenContract.balanceOf('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0513');
+vendorTokensSupply = await tokenContract.balanceOf('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512');
+sup = await tokenContract.totalSupply()
+tokenContract.totalSupply()
+tokensPerEth = await vendorContract.tokensPerEth();
+vendorTokensSupply = await tokenContract.balanceOf(vendorContract.address);
+await vendorContract.transferOwnership('0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266');
+await vendorContract.transferOwnership(owner.address);
+await tokenContract.transfer(vendorContract.address, ethers.utils.parseEther('1000'));
+vendorContract = await VendorContract.deploy(tokenContract.address);
+const VendorContract = await ethers.getContractFactory('Vendor');
+tokenContract = await LomadsTokenFactory.deploy();
+LomadsTokenFactory = await ethers.getContractFactory('LomadsToken');
+await tokenContract.balanceOf(vendorContract.address);
+:quit
+:q
+q;
+end;
+quit
+exit
+abc = await vendorContract.tokensPerEth().call()
+abc = await vendorContract.tokensPerEth()
+abc = await vendorContract.tokensPerEth
+abc = await vendorContract.totalSupply()
+abc = await tokenContract.totalSupply()
+tokenContract.totalSupply()
+tokenContract.address
+vendorContract.address
+vendorTokensSupply = await vendorContract.balanceOf(vendorContract.address);
+vendorTokensSupply22 = await LomadsContract.balanceOf('0x5fbdb2315678afecb367f032d93f642f64180aa3')
+vendorTokensSupply22 = await vendorContract.balanceOf('0x5fbdb2315678afecb367f032d93f642f64180aa3')
+vendorTokensSupply22 = await vendorContract.methods.balanceOf('0x5fbdb2315678afecb367f032d93f642f64180aa3')
+await vendorContract.methods.balanceOf('0x5fbdb2315678afecb367f032d93f642f64180aa3')
+await vendorContract.methods.balanceOf
+await vendorContract.withdraw()
+await vendorContract.buyTokens({value:5})
+await vendorContract.buyTokens()
+await vendorContract.withdraw()
+await vendorContract.w
+await vendorContract.owner()
+vendorTokensSupply22
+vendorTokensSupply22 = await vendorContract.own
+vendorTokensSupply22 = await vendorContract.connect(0x70997970c51812dc3a010c7d01b50e0d17dc79c8);
+vendorTokensSupply22 = await vendorContract.buyTokens();
+vendorTokensSupply = await vendorContract.balanceOf(vendorContract.address);
+vendorTokensSupply = await tokenContract.balanceOf(vendorContract.address);
+vendorContract.connect("0x70997970c51812dc3a010c7d01b50e0d17dc79c8").buyTokens({value:5})
+await vendorContract.transferOwnership(owner.address);
+tokensPerEth = await vendorContract.tokensPerEth();
+vendorTokensSupply = await tokenContract.balanceOf(vendorContract.address);
+await tokenContract.transfer(vendorContract.address, ethers.utils.parseEther('1000'));
+vendorContract = await VendorContract.deploy(tokenContract.address);
+const VendorContract = await ethers.getContractFactory('Vendor');
+tokenContract = await LomadsTokenFactory.deploy();
+LomadsTokenFactory = await ethers.getContractFactory('LomadsToken');
+LomadsToken.balance
+LomadsToken.balanceOf("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266");
+LomadsToken.attach("0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266")
+const LomadsToken = await ethers.getContractFactory("LomadsToken");
+console.log(await web3.eth.getBalance());
+LomadsToken.address
